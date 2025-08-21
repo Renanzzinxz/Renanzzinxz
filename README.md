@@ -2,7 +2,7 @@
 
 ### Meu nome é Renan Eduardo de Lima Palhano
 
-Estou estudando para ser **segurança defensiva** | **equipe azul** | **Blue Team**
+Estou estudando para ser **segurança defensiva | **Blue Team** |
 
 Apaixonado pela segurança cibernética e dedicado a construir um futuro digital mais seguro. Meu foco principal é o Blue Team, onde busco defender e fortalecer as defesas de grandes organizações. Estou sempre em busca de novos desafios para aprimorar minhas habilidades em detecção, análise e resposta a ameaças.
 
@@ -10,7 +10,7 @@ Apaixonado pela segurança cibernética e dedicado a construir um futuro digital
 
 ### 🌐 Conecte-se comigo
 
-- 📍 Baseado no Brasil
+- 📍 Morando atualmente no Brasil
 - 📧 Você pode entrar em contato comigo em renan.eduardo123213@gmail.com
 
 ---
