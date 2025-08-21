@@ -11,7 +11,7 @@ Apaixonado pela segurança cibernética e dedicado a construir um futuro digital
 ### 🌐 Conecte-se comigo
 
 - 📍 Morando atualmente no Brasil
-- 📧 Você pode entrar em contato comigo em renan.eduardo123213@gmail.com
+- 📧 Você pode entrar em contato comigo em reduardodelimapalhano@gmail.com
 
 ---
 
